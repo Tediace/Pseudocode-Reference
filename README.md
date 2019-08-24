@@ -54,7 +54,7 @@ endfunction</pre></code>
 <br>call print_message with "Howdy!"
 A function that returns a value:</br>
 
-</pre><code>function calculate_tax
+<pre><code>function calculate_tax
     pass in amount and tax_rate
     return amount * tax_rate
 endfunction
